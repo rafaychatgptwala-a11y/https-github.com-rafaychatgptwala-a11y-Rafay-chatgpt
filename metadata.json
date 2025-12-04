@@ -1,0 +1,5 @@
+{
+  "name": "Rafay GPT",
+  "description": "A powerful AI chatbot capable of answering questions, writing code, and generating images using Google Gemini models.",
+  "requestFramePermissions": []
+}
